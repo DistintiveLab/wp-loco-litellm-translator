@@ -20,7 +20,7 @@ these constants in `wp-config.php`:
 ```php
 define( 'LITELLM_TRANSLATOR_API_KEY', 'sk-...' );       // required to enable the provider
 define( 'LITELLM_TRANSLATOR_BASE_URL', 'https://llm.grupo.pro.br/v1' ); // OpenAI-compatible base URL
-define( 'LITELLM_TRANSLATOR_MODEL', 'ipeagpt' );        // model name known to your endpoint
+define( 'LITELLM_TRANSLATOR_MODEL', 'dipsik' );        // model name known to your endpoint
 define( 'LITELLM_TRANSLATOR_PROMPT', '' );              // optional extra prompt instructions
 define( 'LITELLM_TRANSLATOR_TEMPERATURE', 0.0 );        // optional decoding temperature
 ```
