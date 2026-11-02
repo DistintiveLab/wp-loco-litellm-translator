@@ -20,7 +20,7 @@ if( is_admin() ){
         $config = array (
             'key' => '',
             'base_url' => 'https://llm.grupo.pro.br/v1',
-            'model' => 'ipeagpt',
+            'model' => 'dipsik',
             'prompt' => '',
             'temperature' => null,
         );
